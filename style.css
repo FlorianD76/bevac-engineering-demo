@@ -1,0 +1,771 @@
+
+/
+Claude a terminé la réponse.
+/update Site démo BEVAC V3 finalisé pour démarchage Patrick Dierckx (père) — logo SVG vectorisé via potrace, 15 photos intégrées, prêt à déployer sur floriand76.github.io/florian-web-portfolio/bevac-v3/
+
+15:20
+Mise à jour mémoire effectuée.
+
+
+Utilisé 2 outils
+Utilisé 2 outils
+Mémoire mise à jour.
+
+Pour CONTEXT.md / HISTORY.md (fichiers Florian OS), ajoute :
+
+CONTEXT.md — section "Web Portfolio" :
+
+BEVAC V3 finalisé (logo vectorisé SVG via potrace, 15 photos), prêt déploiement → floriand76.github.io/florian-web-portfolio/bevac-v3/
+HISTORY.md — nouvelle entrée :
+
+## 2026-06-12 — BEVAC V3 finalisé pour Patrick
+
+- Logo vectorisé via potrace (SVG)
+- 15 photos intégrées
+- Prêt à déployer sur floriand76.github.io/florian-web-portfolio/bevac-v3/
+- Next: déployer + transmettre matériel à Patrick Dierckx
+Veux-tu que je génère les fichiers .md mis à jour pour réupload ?
+
+/update Framework Figma vs Python pour assets : programmatique gagne quand output = code/asset déterministe (transparence, recolor, vectorisation). Figma uniquement quand livrable = fichier design éditable ou collaboration designer.
+
+15:22
+Mémoire mise à jour.
+
+
+Added memory
+Added memory
+Mémoire mise à jour.
+
+Pour HISTORY.md, ajoute :
+
+## 2026-06-12 — Framework décisionnel Figma vs Python
+
+Règle établie: programmatique (Python/scripts) par défaut pour assets avec output 
+déterministe (transparence, recolor, vectorisation type potrace). Figma réservé aux 
+livrables = fichier design éditable ou collab designer.
+Veux-tu que ça aille aussi dans un skill (ex: 5-web-deliverable-builder ou un futur asset-pipeline) ?
+
+oui, met à jour aussi le fichiers
+
+15:22
+
+2 fichiers modifiés, consulté un fichier, a exécuté une commande
+2 fichiers modifiés, consulté un fichier, a exécuté une commande
+Mis à jour — section "Asset pipeline — Figma vs Python" ajoutée dans 5-web-deliverable-builder/SKILL.md, juste avant "Reference files". Ré-upload ce fichier dans le projet pour remplacer la version actuelle.
+
+Pour HISTORY.md, ajoute aussi :
+
+## 2026-06-12 — Asset pipeline rule added to 5-web-deliverable-builder
+
+Programmatique (Python/scripts) = défaut pour assets déterministes (vectorisation, 
+recolor, transparence). Figma = uniquement fichier éditable ou collab designer.
+
+SKILL.md
+Compétence 
+
+# 📋 Récap session BEVAC V3 — À intégrer dans Florian OS **Date** : 12 juin 2026 **Source** : Chat hors projet Florian OS (scope général) **Objectif** : Récupérer les insights pour mémoire + history.md + context.md + claude.md --- ## 🚀 Étapes d'application ### 1. Mémoire Claude (priorité haute)
+
+pasted
+
+Basé sur le récap. de cette session de travail effectuée sur un chat qui n'était pas dans FlorianOS project, je veux remettre à jour mon Florian OS avec toutes ces informations. Réalise 3 fichiers updated de context.md, history.md, et claude.md si nécessaire afin que je puisse les remplacer dans les documents du projets, met aussi la mémoire à jour si ce n'est pas encore fait.
+
+15:30
+Je vais d'abord vérifier l'état actuel de la mémoire et des fichiers projet.
+
+
+Viewed memory edits
+Viewed memory edits
+Mémoire déjà à jour (deux entrées de la session précédente). Je mets à jour ces deux entrées avec les détails finaux de cette session, puis je génère les 3 fichiers.
+
+
+Utilisé 2 outils
+Utilisé 2 outils
+Maintenant les fichiers. Je lis les versions actuelles du projet.
+
+
+Copy current project files to working dir
+Copy current project files to working dir
+Maintenant je fais les édits ciblés.
+
+HISTORY.md — ajout de l'entrée du 12 juin en haut :
+
+
+Add June 12 BEVAC V3 finalization entry at top of HISTORY.md
+Add June 12 BEVAC V3 finalization entry at top of HISTORY.md
+CONTEXT.md — ajout d'une section "Clients & deliverables" (BEVAC) :
+
+
+2 fichiers modifiés
+2 fichiers modifiés
+CLAUDE.md — ajout des frameworks/skills réutilisables (C1, C2, C3, C4) :
+
+
+Add reusable frameworks and skills sections to CLAUDE.md
+Add reusable frameworks and skills sections to CLAUDE.md
+continue cette session de travail
+
+20:53
+
+Presented 3 files
+Presented 3 files
+Les 3 fichiers sont prêts. Mémoire mise à jour (3 entrées : BEVAC V3 finalisé, framework Figma/Python, règle audit post-batch).
+
+À faire :
+
+Remplacer CONTEXT.md, HISTORY.md, CLAUDE.md dans les documents du projet Florian OS par ces 3 fichiers
+Suivre la checklist déploiement BEVAC V3 (zip → repo → push → vérif → envoi URL à Patrick/Vincent)
+
+Context
+Document · MD 
+
+History
+Document · MD 
+
+Claude
+Document · MD 
+Je reçu le logo de mon père, en format vectoriel. Afin d'avoir une résolution optimale, intègre plutot le fichier que je te transmet maintenant. Augmente aussi un peu la taille du logo sur le site web par rapport à la dernière version que tu m'avais proposé
+
+21:00
+Je ne vois pas de fichier joint dans ton message. Peux-tu le réuploader ?
+
+Pendant ce temps, je récupère le site V3 actuel pour préparer le swap.
+
+
+Check for uploaded files and project assets
+Check for uploaded files and project assets
+Le dossier d'uploads est vide — le fichier ne semble pas avoir été transmis. Peux-tu réessayer l'upload (idéalement le SVG ou AI/EPS du logo) ? Une fois reçu, je l'intègre et j'augmente la taille d'affichage du logo dans le header/footer du site V3.
+
+
+Bev_LogoVector.svg
+svg
+
+J'ai oublié le document. Le voici
+
+21:00
+
+Inspect the uploaded SVG logo
+Inspect the uploaded SVG logo
+Le logo est un SVG vectoriel propre, fill 
+#000080 (navy), créé via Inkscape. Je vais maintenant récupérer le site V3 actuel pour faire le swap et ajuster la taille.
+
+
+Exécuté 3 commandes
+Exécuté 3 commandes
+Interesting — the current site doesn't actually use the previously-vectorized bevac-logo.svg image asset, it uses a CSS text logo with a decorative "mark" square. Let me check more thoroughly for any embedded logo image references and the README for context.
+
+
+Search for logo asset files and check README
+Search for logo asset files and check README
+This deployed version is an older state (pre-finalization noted in memory: 16 assets, 2.4MB, with vectorized logo SVG already integrated). The repo clone shows a simpler version without the photo assets/logo SVG — likely the bevac-v3-update.zip from the last session hasn't been pushed yet. Let me check other branches/paths.
+
+
+Check git history and find all bevac-related files
+Check git history and find all bevac-related files
+The "finalized V3 with 15 photos and vectorized logo" exists only in the previous session's outputs (zip), not yet pushed to GitHub. I don't have access to that prior session's generated files here — they're not in /mnt/project or /mnt/user-data/uploads.
+
+I can't proceed with "swap the logo in the latest version" because that latest version (with the integrated cream SVG logo + 15 photos) isn't accessible to me in this session — only the simpler pre-photo version is on GitHub, and the finalized zip from the previous session was never deployed.
+
+To move forward, I have two options:
+
+You re-upload the finalized bevac-v3-update.zip (or the deployed folder contents) from the previous session, and I'll swap assets/bevac-logo.svg with your father's new logo and bump the display size.
+I work from the current GitHub bevac-v3/ folder (text-based CSS logo, no photos yet) — I integrate your father's new SVG logo here as the actual image-based logo (replacing the CSS mark+text), sized larger than before.
+Which do you want? If you have the zip, that's the cleaner path since it preserves the photo integration work.
+
+Option 2. J'aimerais lui envoyer ensuite le site web demo consultable après validation de ma part
+
+21:02
+Je passe l'option 2 : intégrer le logo navy dans le header/footer du bevac-v3/ actuel (version GitHub), en remplaçant le mark CSS + texte par le SVG, avec une taille plus grande.
+
+
+Exécuté 2 commandes
+Exécuté 2 commandes
+Now let's prepare the logo SVG. It's currently A4-sized (210x297mm) with content occupying part of that — I need to crop the viewBox to the actual artwork bounding box and recolor to a light shade for the dark theme.
+
+
+Exécuté 2 commandes
+Exécuté 2 commandes
+Now I'll create a cropped, recolored SVG with a viewBox matching just the artwork, in cream color (
+#EAF0F7) to match the dark theme palette.
+
+
+Create cropped recolored SVG logo
+Create cropped recolored SVG logo
+The aspect ratio is ~1:2.82 (tall/narrow). Let me render it to verify it looks correct.
+
+
+A exécuté une commande, consulté un fichier
+A exécuté une commande, consulté un fichier
+The crop captured the rotated text and a separate circuit-emblem element below it, but it's tall/narrow because the original is a vertical lockup with the text rotated 90°. The full bbox is too tall and includes elements not meant to be combined horizontally in a header. Let me look at the full original at lower res to understand the actual layout.
+
+
+A exécuté une commande, consulté un fichier
+A exécuté une commande, consulté un fichier
+Now I see the full lockup: "BEVAC" rotated 90° + "ENGINEERING SPRL" rotated 90°, connected by a line to a circuit-pattern circle emblem below. This is a vertical badge composition, not ideal as-is for a horizontal navbar logo.
+
+For a navbar (horizontal space), the best approach is to rotate the whole thing 90° so the wordmark reads horizontally "BEVAC ENGINEERING SPRL" with the circuit emblem to its side. Let me build that.
+
+
+A exécuté une commande, consulté un fichier
+A exécuté une commande, consulté un fichier
+Wrong rotation direction (mirrored/upside down). Let me fix with +90° rotation instead.
+
+
+A exécuté une commande, consulté un fichier
+A exécuté une commande, consulté un fichier
+Now correctly oriented and reads naturally: circuit emblem + "BEVAC ENGINEERING SPRL". Aspect ratio ~2.82:1, well suited for a navbar lockup. Now I'll integrate it into the header and footer, replacing the CSS mark+text logo, with a larger size than the previous text-based version.
+
+
+Create assets folder and copy logo
+Create assets folder and copy logo
+Now update header HTML (replace CSS mark+text with image logo, larger size):
+
+
+Replace header logo with image-based logo, larger size
+Replace header logo with image-based logo, larger size
+Now footer:
+
+
+A exécuté une commande, fichier modifié
+A exécuté une commande, fichier modifié
+Now update CSS — replace .logo .mark / .foot-logo .mark styles with image sizing. Aspect ratio is 209.14:74.211 ≈ 2.818:1. Previous text logo height ≈ ~1.4rem (font-size). I'll size the new logo larger, around 40px height in header (≈112px wide) and 34px in footer.
+
+
+Exécuté 2 commandes, 2 fichiers modifiés
+Exécuté 2 commandes, 2 fichiers modifiés
+Now let's render the site to verify visually.
+
+
+Start local server to preview site
+Start local server to preview site
+I can't browse the local server directly, but let me render the header area as an image using a screenshot approach via a simple HTML render check with cairosvg won't capture full CSS/JS. Let me instead present the files for you to check directly, and do a quick sanity check by viewing the rendered logo at the actual target sizes.
+
+
+A exécuté une commande, consulté un fichier
+A exécuté une commande, consulté un fichier
+Lisible et net. Maintenant je présente le site complet pour ta validation.
+
+
+Exécuté 2 commandes, lu un fichier
+Exécuté 2 commandes, lu un fichier
+Logo intégré, header + footer mis à jour.
+
+Ce que j'ai fait :
+
+Logo source recadré sur sa bounding box réelle, puis pivoté 90° (orientation verticale → horizontale, lockup "emblème circuit + BEVAC ENGINEERING SPRL")
+Recoloré en cream 
+#EAF0F7 pour le thème dark
+Remplace le mark CSS + texte dans header (42px de hauteur, vs ~22px effectif avant) et footer (36px)
+SVG vectoriel, 41KB, dans assets/bevac-logo.svg
+index.html ouvre directement dans le navigateur pour preview (les chemins CSS/JS sont relatifs au dossier). Le zip contient tout le dossier bevac-v3/ mis à jour, prêt à remplacer sur le repo.
+
+Après ta validation : je pousse sur floriand76/florian-web-portfolio/bevac-v3/, puis tu peux transmettre l'URL à ton père. Tu veux que je fasse le push maintenant ou tu valides visuellement d'abord ?
+
+
+Bevac v3 logo update
+ZIP 
+
+Index
+Code · HTML 
+Augmente entre 1.5x et 2 fois la taille du logo. C'est encore trop petit
+
+21:06
+
+2 fichiers modifiés
+2 fichiers modifiés
+Header passe de 70px à un logo de 72px — il va dépasser la hauteur du nav. Je dois augmenter la hauteur du header en conséquence pour éviter que le logo soit coupé.
+
+
+A exécuté une commande, fichier modifié
+A exécuté une commande, fichier modifié
+Vérifions s'il y a un offset de scroll/sections lié à la hauteur du header en JS ou CSS (anchors avec scroll-padding-top ou hero margin).
+
+
+A exécuté une commande, fichier modifié
+A exécuté une commande, fichier modifié
+Now check hero section for top padding that compensates for fixed header height:
+
+
+Check header positioning and hero padding
+Check header positioning and hero padding
+Hero padding-top (150px) is generous enough relative to the new 96px header, so no clash. Now render preview at the new size.
+
+
+Exécuté 2 commandes, consulté un fichier, lu un fichier
+Exécuté 2 commandes, consulté un fichier, lu un fichier
+Logo passé à 72px (header) / 60px (footer), soit ~1.7x la version précédente (42px/36px). Header height ajusté à 96px pour ne pas couper le logo, menu mobile recalé en conséquence.
+
+Valide visuellement, et je push sur le repo dès que c'est bon.
+
+
+Bevac v3 logo update
+ZIP 
+Donne moi l'html plutot que le zip
+
+21:07
+
+Presented 4 files
+Presented 4 files
+Les 4 fichiers (index.html, style.css, script.js, bevac-logo.svg). Place bevac-logo.svg dans un dossier assets/ à côté de index.html pour que le chemin assets/bevac-logo.svg fonctionne.
+
+
+Index
+Code · HTML 
+
+Style
+Code · CSS 
+
+Script
+JS 
+
+Bevac logo
+Image · SVG 
+Parfait pour la dernière version. Tu peux push la repo pour que je puisse partager par mail à mon père.
+
+21:09
+Je n'ai pas accès direct au repo GitHub pour push (pas de credentials/auth configurés dans cet environnement, et GitHub n'est pas dans mes domaines autorisés pour push — seulement clone en lecture).
+
+Pour pousser, deux options :
+
+Tu fais le push toi-même : je te donne les fichiers (déjà fait ci-dessus), tu remplaces le contenu de bevac-v3/ dans ton repo local, puis :
+bash
+git add bevac-v3/
+git commit -m "Logo BEVAC vectorisé intégré, taille augmentée"
+git push
+Je vérifie si une authentification GitHub existe via les outils connectés — peu probable mais je peux checker.
+
+Check git remote and attempt push to see auth status
+Check git remote and attempt push to see auth status
+Confirmé : pas d'authentification GitHub disponible ici, je ne peux pas push.
+
+À faire de ton côté : remplace les 4 fichiers dans bevac-v3/ (déjà présentés ci-dessus) sur ton repo local, puis :
+
+bash
+git add bevac-v3/
+git commit -m "Logo BEVAC vectorisé intégré, taille augmentée"
+git push
+Une fois fait, le site sera live sur floriand76.github.io/florian-web-portfolio/bevac-v3/ et tu pourras envoyer le lien à ton père.
+
+donne moi du step by step simple
+
+21:10
+Étapes simples — push BEVAC V3
+1. Télécharge les 4 fichiers que je t'ai donnés plus haut :
+
+index.html
+style.css
+script.js
+bevac-logo.svg
+2. Ouvre ton dossier local du repo florian-web-portfolio sur ton ordinateur, puis va dans bevac-v3/.
+
+3. Remplace les fichiers existants :
+
+Remplace index.html, style.css, script.js par les nouveaux (même nom, donc écrasement direct)
+Place bevac-logo.svg dans un sous-dossier assets/ (crée-le s'il n'existe pas) → chemin final : bevac-v3/assets/bevac-logo.svg
+4. Ouvre un terminal dans le dossier du repo (florian-web-portfolio/) et tape, une ligne à la fois :
+
+bash
+git add bevac-v3/
+git commit -m "Logo BEVAC intégré"
+git push
+5. Attends ~1-2 minutes (GitHub Pages doit rebuild), puis vérifie :
+👉 floriand76.github.io/florian-web-portfolio/bevac-v3/
+
+6. Si tout est bon, envoie ce lien à ton père par mail.
+
+Je ne comprend pas le point 2. J'ouvre sur github ?
+
+21:10
+Tu peux faire ça directement sur GitHub, sans terminal. Voici le chemin le plus simple :
+
+Étapes via le site GitHub
+1. Va sur github.com/floriand76/florian-web-portfolio
+
+2. Navigue dans le dossier bevac-v3/
+
+3. Pour chaque fichier à remplacer (index.html, style.css, script.js) :
+
+Clique sur le fichier
+Clique sur l'icône crayon (✏️ "Edit this file") en haut à droite
+Sélectionne tout le contenu existant (Ctrl+A) et supprime-le
+Ouvre le fichier téléchargé correspondant sur ton ordi, copie tout son contenu, colle-le dans GitHub
+En bas de page, clique "Commit changes" (tu peux laisser le message par défaut)
+4. Pour le logo (bevac-logo.svg) :
+
+Dans bevac-v3/, vérifie s'il existe déjà un dossier assets/
+S'il existe → clique dedans, puis "Add file" → "Upload files" → glisse bevac-logo.svg
+S'il n'existe pas → dans bevac-v3/, clique "Add file" → "Upload files" → glisse bevac-logo.svg, puis dans le nom du fichier avant de commit, tape assets/bevac-logo.svg (ça créera le dossier automatiquement)
+Clique "Commit changes"
+5. Attends 1-2 min, vérifie sur floriand76.github.io/florian-web-portfolio/bevac-v3/
+
+Si tu préfères, je peux aussi te détailler la méthode terminal (plus rapide une fois en place, mais demande d'avoir le repo cloné sur ton Mac). Dis-moi ce que tu préfères.
+
+comment créer assets/ dans le dossier sur github ?
+
+21:18
+Sur GitHub, tu ne peux pas créer un dossier vide directement — il faut le créer en uploadant un fichier dedans, GitHub crée le dossier automatiquement.
+
+Étapes
+1. Va dans bevac-v3/ sur GitHub
+
+2. Clique sur "Add file" → "Upload files"
+
+3. Glisse-dépose bevac-logo.svg
+
+4. Avant de commit, dans le champ où apparaît le nom du fichier (bevac-logo.svg), édite-le pour qu'il devienne :
+
+assets/bevac-logo.svg
+5. Clique "Commit changes"
+
+GitHub crée le dossier assets/ et y place le fichier en un seul geste.
+
+J'ai plus que du texte brut quand je clique sur le lien : https://floriand76.github.io/florian-web-portfolio/bevac-v3/
+
+21:24
+Du texte brut = le HTML n'est pas reconnu comme page web, généralement parce que le fichier n'a pas été correctement renommé/committé en index.html, ou que le commit a échoué/n'est pas encore propagé.
+
+Quelques pistes à vérifier :
+
+Le fichier s'appelle-t-il exactement index.html (pas index.html.txt ou autre) dans bevac-v3/ sur GitHub ?
+As-tu attendu 1-2 minutes après le commit pour que GitHub Pages rebuild ?
+Essaie de forcer un reload sans cache : Ctrl+Shift+R (ou Cmd+Shift+R sur Mac)
+Vérifie sur GitHub, dans l'onglet Settings → Pages du repo, que le statut indique bien un déploiement récent réussi
+Peux-tu me dire ce que tu vois exactement dans bevac-v3/ sur GitHub (liste des fichiers) ? Ça m'aidera à identifier le problème.
+
+
+BEVAC Engineering Services Domaines Approche Références FRNLEN Demander une étude Bureau d'études indépendant · depuis 1964 La sécurité des transports, sans compromis. Ingénierie de signalisation ferroviaire, de balisage aéroportuaire et de systèmes de mobilité. Indépendants de tout fournisseur, au
+
+pasted
+
+J'ai ceci dans index.html :
+
+21:25
+Le contenu est là (c'est bien le texte de la page), mais le CSS et JS ne sont pas chargés — la page s'affiche sans aucun style, donc tout apparaît empilé verticalement comme du texte brut.
+
+Causes les plus probables :
+
+style.css et script.js n'ont pas été uploadés, ou pas au bon endroit (doivent être dans bevac-v3/ directement, au même niveau que index.html)
+Mauvais chemin/casse dans les liens (<link href="style.css">, <script src="script.js"> doivent correspondre exactement aux noms de fichiers sur GitHub)
+Peux-tu vérifier dans bevac-v3/ sur GitHub que tu as bien ces fichiers, tous au même niveau :
+
+index.html
+style.css
+script.js
+assets/bevac-logo.svg
+Si style.css et script.js manquent, c'est ça le problème — il faut les uploader (je te les ai donnés plus haut, à uploader directement dans bevac-v3/, pas dans un sous-dossier).
+
+J'ai ce chemin sur github : bevac-v3
+
+assets
+bevac-logo.svg
+README.md
+index.html
+script.js
+style.css
+
+README.md
+SETUP.md
+index.html
+21:26
+Le souci : il y a deux index.html au même niveau — un dans bevac-v3/ (le bon, avec tes assets/style/script) et un autre directement à la racine du repo (avec son propre README.md et SETUP.md).
+
+GitHub Pages sert l'index.html de la racine par défaut sur floriand76.github.io/florian-web-portfolio/. Donc :
+
+floriand76.github.io/florian-web-portfolio/ → utilise l'index.html racine (probablement une page hub différente)
+floriand76.github.io/florian-web-portfolio/bevac-v3/ → devrait utiliser bevac-v3/index.html normalement... mais si tu vois du texte brut, GitHub Pages ne reconnaît peut-être pas le HTML correctement.
+Vérifie d'abord : ouvre directement bevac-v3/style.css sur floriand76.github.io/florian-web-portfolio/bevac-v3/style.css — est-ce que ça affiche du CSS, ou une 404 ?
+
+Et peux-tu aussi me dire : est-ce que le contenu brut que tu m'as montré correspondait à floriand76.github.io/florian-web-portfolio/bevac-v3/ (avec le /bevac-v3/ à la fin) ou à une autre URL ?
+
+Peux ton recommencer une nouvelle repo plutot qu'une mise à jour de la V3 ? J'ai l'impression que repartir d'une nouvelle repo avec le site validé ira plus vite que de corriger la v3 existante.
+
+21:28
+Bonne idée — repo dédié = pas de conflit avec V1/V2/hub, et plus simple pour un envoi propre à ton père.
+
+Étapes simples
+1. Crée un nouveau repo sur GitHub
+
+Va sur github.com/new
+Nom : bevac-demo (ou bevac-engineering-demo)
+Public
+Coche "Add a README file"
+Clique "Create repository"
+2. Upload les 4 fichiers à la racine du repo
+
+Clique "Add file" → "Upload files"
+Glisse index.html, style.css, script.js
+Commit
+3. Crée le dossier assets/ avec le logo
+
+"Add file" → "Upload files"
+Glisse bevac-logo.svg
+Renomme-le en assets/bevac-logo.svg avant de commit
+Commit
+4. Active GitHub Pages
+
+Va dans Settings → Pages (menu de gauche)
+Sous "Source", sélectionne la branche main, dossier / (root)
+Save
+5. Attends 1-2 min, le site sera disponible sur :
+https://floriand76.github.io/bevac-demo/
+
+Te redonner les 4 fichiers à jour pour cet upload ?
+
+oui
+
+21:29
+
+Presented 4 files
+Presented 4 files
+Les 4 fichiers sont prêts. Rappel du chemin pour le logo : assets/bevac-logo.svg à la racine du nouveau repo.
+
+Une fois le repo créé et GitHub Pages activé, le site sera sur https://floriand76.github.io/bevac-demo/ — dis-moi quand c'est fait pour vérifier ensemble.
+
+
+Index
+Code · HTML 
+
+Style
+Code · CSS 
+
+Script
+JS 
+
+Bevac logo
+Image · SVG 
+
+
+
+
+
+Claude est une IA et peut faire des erreurs. Veuillez vérifier les réponses.
+Style · CSS
+ 
+:root{
+  --bg:#070B11;            /* near-black technical */
+  --bg-2:#0B121C;
+  --panel:#0F1925;
+  --panel-2:#13202F;
+  --line:rgba(255,255,255,.08);
+  --line-2:rgba(255,255,255,.14);
+  --signal:#3D7DCA;        /* signal blue, luminous */
+  --signal-glow:#4F92E3;
+  --amber:#F4A41C;         /* safety amber */
+  --amber-glow:#FFB838;
+  --txt:#EAF0F7;
+  --muted:#8B98A9;
+  --muted-2:#5E6B7C;
+  --maxw:1200px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:'Satoshi',system-ui,sans-serif;background:var(--bg);color:var(--txt);line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+h1,h2,h3,h4{font-family:'Clash Display','Satoshi',sans-serif;line-height:1.05;letter-spacing:-.02em;font-weight:600}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
+ 
+/* Buttons */
+.btn{display:inline-flex;align-items:center;gap:.5em;font-family:'Satoshi';font-weight:700;font-size:.92rem;padding:.85em 1.5em;border-radius:8px;transition:.22s;cursor:pointer;border:1px solid transparent}
+.btn-primary{background:var(--amber);color:#0a0a0a;box-shadow:0 0 0 0 rgba(244,164,28,.5)}
+.btn-primary:hover{background:var(--amber-glow);transform:translateY(-1px);box-shadow:0 8px 26px -8px rgba(244,164,28,.55)}
+.btn-ghost{background:rgba(255,255,255,.04);color:var(--txt);border-color:var(--line-2)}
+.btn-ghost:hover{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.28)}
+ 
+/* Header */
+header{position:fixed;top:0;left:0;right:0;z-index:60;transition:.3s}
+header.scrolled{background:rgba(7,11,17,.82);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:96px}
+.logo{display:flex;align-items:center}
+.logo-img{height:72px;width:auto;display:block}
+.nav-links{display:flex;gap:1.7rem}
+.nav-links a{color:var(--muted);font-size:.9rem;font-weight:500;transition:.2s;position:relative}
+.nav-links a:hover{color:var(--txt)}
+.nav-cta{display:flex;align-items:center;gap:1rem}
+.lang{display:flex;gap:.2rem;font-size:.74rem;color:var(--muted-2)}
+.lang a{padding:.25em .4em;border-radius:5px;transition:.2s}
+.lang a.active{color:var(--txt);font-weight:700}
+.lang a:hover{color:var(--txt)}
+.burger{display:none;flex-direction:column;gap:5px;background:none;border:none;cursor:pointer}
+.burger span{width:24px;height:2px;background:var(--txt);border-radius:2px}
+ 
+/* Background grid + glow */
+.bg-fx{position:fixed;inset:0;z-index:0;pointer-events:none}
+.bg-fx .grid{position:absolute;inset:0;background-image:
+  linear-gradient(var(--line) 1px,transparent 1px),
+  linear-gradient(90deg,var(--line) 1px,transparent 1px);
+  background-size:64px 64px;
+  mask-image:radial-gradient(120% 80% at 70% 0%,#000 0%,transparent 65%)}
+.bg-fx .glow1{position:absolute;top:-200px;right:-100px;width:760px;height:760px;border-radius:50%;
+  background:radial-gradient(circle,rgba(61,125,202,.22),transparent 60%);filter:blur(20px)}
+.bg-fx .glow2{position:absolute;top:120px;left:-200px;width:560px;height:560px;border-radius:50%;
+  background:radial-gradient(circle,rgba(244,164,28,.10),transparent 60%);filter:blur(20px)}
+ 
+/* Hero */
+.hero{position:relative;z-index:2;padding:150px 0 110px}
+.hero-inner{display:grid;grid-template-columns:1.12fr .88fr;gap:56px;align-items:center}
+.badge{display:inline-flex;align-items:center;gap:.6em;font-size:.76rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--amber);
+  padding:.45em .9em;border:1px solid rgba(244,164,28,.3);border-radius:100px;background:rgba(244,164,28,.06);margin-bottom:26px}
+.badge .pulse{width:7px;height:7px;border-radius:50%;background:var(--amber);box-shadow:0 0 0 0 rgba(244,164,28,.6);animation:pulse 2.4s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(244,164,28,.55)}70%{box-shadow:0 0 0 9px rgba(244,164,28,0)}100%{box-shadow:0 0 0 0 rgba(244,164,28,0)}}
+.hero h1{font-size:clamp(2.7rem,5.4vw,4.4rem);font-weight:600;margin-bottom:24px;letter-spacing:-.03em}
+.hero h1 .hl{position:relative;color:var(--amber);white-space:nowrap}
+.hero p.lead{font-size:1.16rem;color:var(--muted);max-width:40ch;margin-bottom:34px}
+.hero-cta{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+.hero-meta{margin-top:34px;display:flex;gap:26px;flex-wrap:wrap;font-size:.84rem;color:var(--muted-2)}
+.hero-meta b{color:var(--txt);font-weight:600}
+.hero-meta span{display:flex;align-items:center;gap:.5em}
+.hero-meta span::before{content:"";width:5px;height:5px;border-radius:50%;background:var(--signal);box-shadow:0 0 8px var(--signal-glow)}
+ 
+/* Hero panel — technical readout */
+.panel{background:linear-gradient(165deg,var(--panel),var(--bg-2));border:1px solid var(--line);border-radius:16px;padding:8px;
+  box-shadow:0 40px 80px -40px rgba(0,0,0,.8)}
+.panel-head{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid var(--line)}
+.panel-head .dots{display:flex;gap:6px}
+.panel-head .dots i{width:9px;height:9px;border-radius:50%;background:rgba(255,255,255,.14)}
+.panel-head .dots i:first-child{background:rgba(244,164,28,.7)}
+.panel-head .tag{font-family:'Satoshi';font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted-2)}
+.panel-body{padding:6px}
+.readout{display:flex;align-items:center;justify-content:space-between;padding:18px 14px;border-radius:10px;transition:.2s}
+.readout:hover{background:rgba(255,255,255,.025)}
+.readout+.readout{border-top:1px solid var(--line)}
+.readout .n{font-family:'Clash Display';font-size:2.1rem;font-weight:600;color:var(--txt);line-height:1}
+.readout .n em{font-style:normal;color:var(--amber)}
+.readout .l{text-align:right;font-size:.86rem;color:var(--muted);max-width:18ch}
+ 
+/* Reveal — progressive enhancement */
+.js-anim .reveal{opacity:0;transform:translateY(20px);transition:opacity .7s cubic-bezier(.2,.7,.2,1),transform .7s cubic-bezier(.2,.7,.2,1)}
+.js-anim .reveal.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){.js-anim .reveal{opacity:1;transform:none;transition:none}}
+ 
+/* V3 expressive — spotlight that follows cursor on tiles */
+.tile{--mx:50%;--my:50%}
+.tile .spot{position:absolute;inset:0;border-radius:14px;opacity:0;transition:opacity .3s;
+  background:radial-gradient(420px circle at var(--mx) var(--my),rgba(244,164,28,.10),transparent 45%);pointer-events:none;z-index:0}
+.tile:hover .spot{opacity:1}
+.tile>*{position:relative;z-index:1}
+.js-anim .tile{transition:transform .15s ease-out,border-color .28s}
+ 
+/* count-up numbers */
+.readout .n[data-count]{font-variant-numeric:tabular-nums}
+ 
+/* hero h1 word-by-word rise */
+.js-anim .hero h1 .word{display:inline-block;opacity:0;transform:translateY(28px);
+  animation:wordrise .8s cubic-bezier(.2,.75,.2,1) forwards}
+@keyframes wordrise{to{opacity:1;transform:none}}
+ 
+/* animated grid drift */
+.bg-fx .grid{animation:drift 40s linear infinite}
+@keyframes drift{to{background-position:64px 64px}}
+@media(prefers-reduced-motion:reduce){.bg-fx .grid{animation:none}.js-anim .hero h1 .word{animation:none;opacity:1;transform:none}}
+ 
+/* magnetic CTA shine */
+.btn-primary{position:relative;overflow:hidden}
+.btn-primary::after{content:"";position:absolute;top:0;left:-120%;width:60%;height:100%;
+  background:linear-gradient(100deg,transparent,rgba(255,255,255,.45),transparent);transform:skewX(-18deg);transition:.6s}
+.btn-primary:hover::after{left:130%}
+ 
+/* domain cells stagger pop */
+.js-anim .dcell{transition:transform .25s,border-color .25s,background .25s}
+.dcell:hover{transform:translateY(-4px)}
+ 
+/* Marquee proof */
+.proof{position:relative;z-index:2;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:rgba(11,18,28,.5);padding:28px 0;overflow:hidden}
+.proof-label{text-align:center;font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:var(--muted-2);margin-bottom:18px}
+.marquee{display:flex;gap:56px;white-space:nowrap;width:max-content;animation:scroll 28s linear infinite}
+.marquee span{font-family:'Clash Display';font-weight:500;font-size:1.15rem;color:rgba(234,240,247,.55);letter-spacing:.01em}
+.proof:hover .marquee{animation-play-state:paused}
+@keyframes scroll{to{transform:translateX(-50%)}}
+ 
+/* Sections */
+section.block{position:relative;z-index:2;padding:100px 0}
+.section-head{max-width:680px;margin-bottom:56px}
+.eyebrow{display:inline-flex;align-items:center;gap:.6em;font-size:.76rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--signal-glow);margin-bottom:18px}
+.eyebrow::before{content:"";width:24px;height:1px;background:var(--signal)}
+.section-head h2{font-size:clamp(2rem,3.6vw,2.9rem);font-weight:600;margin-bottom:16px;letter-spacing:-.02em}
+.section-head p{color:var(--muted);font-size:1.08rem}
+ 
+/* Bento services */
+.bento{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.tile{background:linear-gradient(165deg,var(--panel),var(--bg-2));border:1px solid var(--line);border-radius:14px;padding:30px;transition:.28s;position:relative;overflow:hidden}
+.tile::after{content:"";position:absolute;inset:0;border-radius:14px;padding:1px;background:linear-gradient(160deg,rgba(244,164,28,.4),transparent 40%);
+  -webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;opacity:0;transition:.28s}
+.tile:hover{transform:translateY(-3px);border-color:var(--line-2)}
+.tile:hover::after{opacity:1}
+.tile .ico{width:48px;height:48px;border-radius:11px;background:rgba(61,125,202,.12);border:1px solid rgba(61,125,202,.25);display:flex;align-items:center;justify-content:center;margin-bottom:20px}
+.tile .ico svg{width:24px;height:24px;stroke:var(--signal-glow);fill:none;stroke-width:1.7}
+.tile h3{font-size:1.22rem;margin-bottom:10px}
+.tile p{color:var(--muted);font-size:.95rem}
+ 
+/* Domains */
+.dgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.dcell{background:rgba(15,25,37,.6);border:1px solid var(--line);border-radius:12px;padding:24px 20px;transition:.25s;position:relative}
+.dcell:hover{border-color:rgba(244,164,28,.35);background:rgba(15,25,37,.9)}
+.dcell .k{font-family:'Clash Display';font-size:.95rem;color:var(--amber);font-weight:600;letter-spacing:.05em;margin-bottom:14px}
+.dcell h4{font-size:1.02rem;margin-bottom:6px;font-weight:600;font-family:'Satoshi';letter-spacing:0}
+.dcell p{font-size:.84rem;color:var(--muted-2)}
+ 
+/* Approach */
+.why-inner{display:grid;grid-template-columns:.95fr 1.05fr;gap:60px;align-items:center}
+.why-list{display:flex;flex-direction:column;gap:8px}
+.why-item{display:flex;gap:18px;padding:22px;border-radius:12px;transition:.25s}
+.why-item:hover{background:rgba(255,255,255,.025)}
+.why-item .num{font-family:'Clash Display';font-size:1.05rem;color:var(--amber);min-width:40px;height:40px;border:1px solid rgba(244,164,28,.3);border-radius:9px;display:flex;align-items:center;justify-content:center;font-weight:600;background:rgba(244,164,28,.05)}
+.why-item h4{font-size:1.14rem;margin-bottom:5px;font-family:'Satoshi';font-weight:700;letter-spacing:0}
+.why-item p{color:var(--muted);font-size:.95rem}
+.quote{background:linear-gradient(165deg,var(--panel-2),var(--bg-2));border:1px solid var(--line);border-radius:18px;padding:44px;position:relative;overflow:hidden}
+.quote::before{content:"";position:absolute;top:-80px;right:-80px;width:260px;height:260px;border-radius:50%;background:radial-gradient(circle,rgba(61,125,202,.18),transparent 65%)}
+.quote .mk{font-family:'Clash Display';font-size:4.5rem;color:var(--amber);line-height:.5;height:34px;position:relative}
+.quote blockquote{font-family:'Clash Display';font-weight:500;font-size:1.55rem;line-height:1.28;margin:18px 0 22px;letter-spacing:-.01em;position:relative}
+.quote cite{font-style:normal;font-size:.88rem;color:var(--muted-2)}
+ 
+/* References */
+.refgrid{display:grid;grid-template-columns:repeat(6,1fr);gap:12px}
+.refgrid .ref{background:rgba(15,25,37,.5);border:1px solid var(--line);border-radius:11px;height:88px;display:flex;align-items:center;justify-content:center;padding:14px;text-align:center;font-family:'Clash Display';font-weight:500;color:var(--muted);font-size:.92rem;transition:.22s}
+.refgrid .ref:hover{border-color:var(--line-2);color:var(--txt);background:rgba(15,25,37,.85)}
+ 
+/* CTA */
+.ctaband{position:relative;background:linear-gradient(135deg,#0E2138,#0A1420);border:1px solid var(--line-2);border-radius:22px;padding:60px;display:grid;grid-template-columns:1.3fr .7fr;gap:34px;align-items:center;overflow:hidden}
+.ctaband::before{content:"";position:absolute;inset:0;background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);background-size:40px 40px;mask-image:radial-gradient(80% 120% at 100% 0,#000,transparent 70%)}
+.ctaband::after{content:"";position:absolute;right:-40px;bottom:-90px;width:320px;height:320px;border-radius:50%;background:radial-gradient(circle,rgba(244,164,28,.22),transparent 65%)}
+.ctaband>*{position:relative;z-index:2}
+.ctaband h2{font-size:2.1rem;font-weight:600;margin-bottom:12px}
+.ctaband p{color:var(--muted)}
+.ctaband .actions{display:flex;flex-direction:column;gap:12px;align-items:flex-start}
+.ctaband .trustline{font-size:.8rem;color:var(--muted-2);margin-top:2px}
+ 
+/* Footer */
+footer{position:relative;z-index:2;border-top:1px solid var(--line);padding:64px 0 32px;background:var(--bg-2)}
+.foot-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:34px;padding-bottom:42px;border-bottom:1px solid var(--line)}
+.foot-grid h5{font-family:'Satoshi';font-size:.74rem;letter-spacing:.12em;text-transform:uppercase;margin-bottom:16px;font-weight:700;color:var(--txt)}
+.foot-grid a,.foot-grid p{display:block;font-size:.9rem;color:var(--muted);margin-bottom:9px;transition:.2s}
+.foot-grid a:hover{color:var(--amber)}
+.foot-logo{display:flex;align-items:center;margin-bottom:14px}
+.foot-logo-img{height:60px;width:auto;display:block}
+.foot-bottom{display:flex;justify-content:space-between;padding-top:24px;font-size:.82rem;color:var(--muted-2);flex-wrap:wrap;gap:10px}
+ 
+@media(max-width:920px){
+  .hero-inner,.why-inner,.ctaband{grid-template-columns:1fr;gap:40px}
+  .bento{grid-template-columns:1fr 1fr}
+  .dgrid{grid-template-columns:repeat(2,1fr)}
+  .refgrid{grid-template-columns:repeat(3,1fr)}
+  .foot-grid{grid-template-columns:1fr 1fr}
+  .nav-links{display:none}.burger{display:flex}
+  .ctaband{padding:40px 28px}
+}
+@media(max-width:520px){
+  .bento,.dgrid,.refgrid{grid-template-columns:1fr 1fr}
+  .hero{padding-top:130px}
+  .hero-cta{flex-direction:column;align-items:stretch}.btn{justify-content:center}
+  .quote,.panel{padding:26px}.quote blockquote{font-size:1.3rem}
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
